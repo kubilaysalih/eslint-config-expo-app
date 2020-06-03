@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-expo-app",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expo",
+    "eslint",
+    "typescript",
+    "module-alias",
+    "prettier"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kubilaysalih/eslint-config-expo-app"
+  },
+  "author": "kubilay salih",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-config-universe": "^3.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^2.0.5",
+    "typescript": "~3.8.3"
+  }
+}
